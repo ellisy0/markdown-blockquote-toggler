@@ -1,4 +1,7 @@
-# markdown-blockquote-toggler README
+# Markdown Blockquote Toggler
+
+[![version](https://img.shields.io/vscode-marketplace/v/EliYing.markdown-blockquote-toggler.svg?style=flat-square&label=vscode%20marketplace)](https://marketplace.visualstudio.com/items?itemName=EliYing.markdown-blockquote-toggler)
+[![installs](https://img.shields.io/vscode-marketplace/d/EliYing.markdown-blockquote-toggler.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=EliYing.markdown-blockquote-toggler)
 
 ## Features
 
@@ -30,5 +33,6 @@ MIT
 
 ## For more information
 
+- [Source Code on GitHub](https://github.com/ellisy0/markdown-blockquote-toggler)
 - [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 - [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
