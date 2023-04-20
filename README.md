@@ -22,6 +22,10 @@ There are currently no known issues with this extension.
 
 Initial release of the markdown-blockquote-toggler extension.
 
+## License
+
+MIT
+
 ---
 
 ## For more information
