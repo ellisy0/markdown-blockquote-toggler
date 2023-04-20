@@ -8,6 +8,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - No unreleased changes.
 
-## [1.0.0] - 2023-04-20
+## [0.0.1] - 2023-04-20
 
 - Initial release of the markdown-blockquote-toggler extension.

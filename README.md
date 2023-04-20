@@ -18,7 +18,7 @@ There are currently no known issues with this extension.
 
 ## Release Notes
 
-### 1.0.0
+### 0.0.1
 
 Initial release of the markdown-blockquote-toggler extension.
 
