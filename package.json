@@ -2,7 +2,7 @@
   "name": "markdown-blockquote-toggler",
   "displayName": "Markdown Blockquote Toggler",
   "description": "Toggle markdown blockquotes on/off",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "EliYing",
   "repository": {
     "type": "git",

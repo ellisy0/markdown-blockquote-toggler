@@ -11,3 +11,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.1] - 2023-04-20
 
 - Initial release of the markdown-blockquote-toggler extension.
+
+## [0.0.2] - 2023-04-20
+
+- Update README.md
