@@ -3,6 +3,10 @@
   "displayName": "Markdown Blockquote Toggler",
   "description": "Toggle markdown blockquotes on/off",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ellisy0/markdown-blockquote-toggler.git"
+  },
   "engines": {
     "vscode": "^1.77.0"
   },
